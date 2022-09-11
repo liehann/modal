@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.liehann.modal.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.liehann.modal.MyBundle
 
 class MyApplicationService {
 
